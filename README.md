@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">A passionate Computer Engineering Student from India</h3>
 
-- 👨‍💻 All of my projects & porthfolio are available at [https://bashish388.wixsite.com/ashish](https://bashish388.wixsite.com/ashish)
+- 👨‍💻 All of my projects & porthfolio are available at [Ashish Bhoir's Portfolio.](https://bashish388.wixsite.com/ashish)
 
-- 📝 I regulary write articles on [https://bashish388.wixsite.com/ashish/articles](https://bashish388.wixsite.com/ashish/articles)
+- 📝 I regulary write articles on [Ashish Bhoir's Blogs.](https://bashish388.wixsite.com/ashish/articles)
 
 - 📫 How to reach me **bashhish388@gmail.com**
 
