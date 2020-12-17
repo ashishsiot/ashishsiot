@@ -50,6 +50,11 @@
   <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>&nbsp &nbsp 
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+
+<h3 align="left">Tools</h3>
+<p align="left"> <a href="https://github.com/ashishsiot" target="_blank"> <img src="https://static.wixstatic.com/shapes/c73a6d_8e7045feeef4434ca35eb627295ef6a6.svg" alt="git" width="40" height="40"/> </a>&nbsp  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
+
+
 ## <h3 align="left">Stats</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishsiot&show_icons=true&locale=en" alt="ashishsiot" /></p>
