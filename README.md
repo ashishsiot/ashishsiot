@@ -10,10 +10,7 @@
 
 ## <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/ashish_bhoir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ashish_bhoir" height="30" width="40" /></a>&nbsp &nbsp
-  <a href="https://linkedin.com/in/ashish-bhoir-152634198" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashish-bhoir-152634198" height="30" width="40" /></a>&nbsp &nbsp
-  <a href="https://fb.com/ashish.bhoir.5099" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ashish.bhoir.5099" height="30" width="40" /></a>&nbsp &nbsp
-<a href="https://twitter.com/@ashishb99649522" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@ashishb99649522" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ashish-bhoir-152634198" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1646870400&v=beta&t=3Fo3SWDzdbmzIPJo3zZZ5Qmoq944OTjFJl48ApJcDB4" alt="ashish-bhoir-152634198" height="40" width="40" /></a>&nbsp &nbsp
 </p>
 
 
