@@ -17,20 +17,20 @@
 <p align="left"> 
   <a href="https://www.javatpoint.com/java-tutorial" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="cplusplus" width="40" height="40"/> </a>
   &nbsp &nbsp 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>
   </a>
   &nbsp &nbsp 
-  <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  <a href="https://www.php.net" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Antu_php.svg/640px-Antu_php.svg.png" alt="php" width="40" height="40"/> 
     </p> 
 
 
 <h3 align="left">Frontend Devlopment</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp &nbsp 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp &nbsp 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/> </a> &nbsp &nbsp 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Devicon-html5-plain.svg/640px-Devicon-html5-plain.svg.png" alt="html5" width="40" height="40"/> </a>&nbsp &nbsp 
   <a href="https://www.markdownguide.org/basic-syntax/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/173/882/png-clipart-logo-markdown-wikimedia-movement-scalable-graphics-brand-markdowns-white-text.png" alt="react" width="40" height="40"/> </a>&nbsp &nbsp 
   
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> </p>
 
 
 <h3 align="left">Database</h3>
@@ -38,12 +38,12 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" width="50" height="40"/> </a> &nbsp &nbsp 
   <a href="https://www.phpmyadmin.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="php my admin" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Backend as a Service</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp &nbsp <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<h3 align="left">Backend Service</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp &nbsp <a hr <a href="https://www.phpmyadmin.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="php my admin" width="40" height="40"/> </a> </p>
 
 
 <h3 align="left">Mobail App Devlopment</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/640px-Android_Studio_Icon_3.6.svg.png" alt="android" width="40" height="40"/> </a>  </p>
 
 
 <h3 align="left">Software's</h3>
