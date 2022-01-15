@@ -35,7 +35,7 @@
 
 <h3 align="left">Database</h3>
 <p align="left"> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp &nbsp 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" width="50" height="40"/> </a> &nbsp &nbsp 
   <a href="https://www.phpmyadmin.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="php my admin" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Backend as a Service</h3>
@@ -48,13 +48,15 @@
 
 <h3 align="left">Software's</h3>
 <p align="left">
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a>&nbsp &nbsp
-  <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>&nbsp &nbsp 
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Adobe_Photoshop_CS6_icon.svg/450px-Adobe_Photoshop_CS6_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>&nbsp &nbsp
+  <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vhttps://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png" alt="figma" width="40" height="40"/> </a>&nbsp &nbsp 
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
 <h3 align="left">Tools</h3>
-<p align="left"> <a href="https://github.com/ashishsiot" target="_blank"> <img src="https://static.wixstatic.com/shapes/c73a6d_8e7045feeef4434ca35eb627295ef6a6.svg" alt="git" width="40" height="40"/> </a>&nbsp  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://github.com/ashishsiot" target="_blank"> <img src="https://static.wixstatic.com/shapes/c73a6d_8e7045feeef4434ca35eb627295ef6a6.svg" alt="git" width="40" height="40"/> </a>&nbsp  
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp 
+  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
 
 
 ## <h3 align="left">Stats</h3>
