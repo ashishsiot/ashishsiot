@@ -49,7 +49,7 @@
 <h3 align="left">Software's</h3>
 <p align="left">
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Adobe_Photoshop_CS6_icon.svg/450px-Adobe_Photoshop_CS6_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>&nbsp &nbsp
-  <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vhttps://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png" alt="figma" width="40" height="40"/> </a>&nbsp &nbsp 
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/640px-Figma-logo.svg.png" alt="figma" width="40" height="40"/> </a>&nbsp &nbsp 
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
