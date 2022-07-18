@@ -6,7 +6,7 @@
 
 ## <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ashish-bhoir-152634198" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1646870400&v=beta&t=3Fo3SWDzdbmzIPJo3zZZ5Qmoq944OTjFJl48ApJcDB4" alt="ashish-bhoir-152634198" height="40" width="40" /></a>&nbsp &nbsp
+  <a href="https://linkedin.com/in/ashish-bhoir-152634198" target="blank"><img align="center" src="https://brand.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" alt="ashish-bhoir-152634198" height="40" width="40" /></a>&nbsp &nbsp
 </p>
 
 
